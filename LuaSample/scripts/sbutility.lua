@@ -1,10 +1,10 @@
 --[[
 Copyright 2015, Crank Software Inc.
-All Rights Reserved.
+All Rights Reserved. Not conflicting
 For more information email info@cranksoftware.com
 ** FOR DEMO PURPOSES ONLY **
 ]]--
-
+--conflicting
 -- This Lua module provides a set of useful functions that
 -- can be handy when doing Storyboard development.
 --
