@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<buildpath>
-	<buildpathentry kind="src" path=""/>
-	<buildpathentry external="true" kind="lib" path="/Users/evanbeisheim/Crank/designer_plugins_4.4/com.crank.gdt.lua/resources/lua/api.zip"/>
-</buildpath>
