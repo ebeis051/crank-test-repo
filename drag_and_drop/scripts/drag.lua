@@ -19,7 +19,7 @@ function drag(mapargs)
 		return
 	end
 	
-	--set postion to touch co-ord (-34 to make it center on image)
+	--set postion to touch co-ord (-34 to make it center on image) nonconflicting change
 	local pos = {}
 	pos["x"] = ev_data.x - 34
 	pos["y"] = ev_data.y -  34
