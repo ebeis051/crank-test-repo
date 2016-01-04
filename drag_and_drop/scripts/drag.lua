@@ -5,6 +5,8 @@ For more information email info@cranksoftware.com
 ** FOR DEMO PURPOSES ONLY **
 ]]--
 
+--new comment
+
 local last_pressed_control = nil
 local front = 100
 
