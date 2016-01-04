@@ -7,7 +7,7 @@ public class TestClass {
 	}
 	
 	private void method() {
-		
+		System.out.println("method prints a line");
 	}
 	
 }
