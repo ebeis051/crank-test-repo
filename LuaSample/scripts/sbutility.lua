@@ -4,13 +4,13 @@ All Rights Reserved.
 For more information email info@cranksoftware.com
 ** FOR DEMO PURPOSES ONLY **
 ]]--
-
+--commentcomment
 -- This Lua module provides a set of useful functions that
 -- can be handy when doing Storyboard development.
 --
 -- These functions are intended to be copied and customized.
 
--- 
+-- another comment 
 -- Print the content of a table in a visually pleasing fashion
 --
 -- Use this as: 
